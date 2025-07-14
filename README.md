@@ -43,12 +43,4 @@ This project is based on a modified version of the "Fruitables" HTML template, t
 
 ---
 
-## 📄 Credits
-
-- Original Template: [Fruitables – HTML Codex](https://htmlcodex.com/vegetable-website-template)  
-- Modified & Rebranded by: **Rafay Iqbal**  
-- License Info: [HTML Codex License](https://htmlcodex.com/license)
-
----
-
 > 🍅 Designed with love & logic by Rafay Iqbal
